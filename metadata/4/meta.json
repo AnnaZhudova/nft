@@ -2,7 +2,7 @@
 {
   "name": "Четвертый NFT",
   "description": "Это четвертый NFT в коллекции",
-  "image": "https://raw.githubusercontent.com/AnnaZhudova/nft/metadata/4.jpg",
+  "image": "https://raw.githubusercontent.com/AnnaZhudova/nft/refs/heads/main/metadata/4.jpg",
   "attributes": [
     {
       "trait_type": "Index",
