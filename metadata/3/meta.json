@@ -1,7 +1,7 @@
 {
   "name": "Третий NFT",
   "description": "Это третий NFT в коллекции",
-  "image": "https://raw.githubusercontent.com/AnnaZhudova/nft/metadata/3.jpg",
+  "image": "https://raw.githubusercontent.com/AnnaZhudova/nft/refs/heads/main/metadata/3.jpg",
   "attributes": [
     {
       "trait_type": "Index",
