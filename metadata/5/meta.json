@@ -1,1 +1,19 @@
-
+{
+  "name": "Пятый NFT",
+  "description": "Это пятый NFT в коллекции",
+  "image": "https://raw.githubusercontent.com/AnnaZhudova/nft/metadata/5.jpg",
+  "attributes": [
+    {
+      "trait_type": "Index",
+      "value": "5"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ]
+}
