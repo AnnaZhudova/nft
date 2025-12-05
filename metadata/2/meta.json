@@ -1,7 +1,7 @@
 {
   "name": "Второй NFT",
   "description": "Это второй NFT в коллекции",
-  "image": "https://raw.githubusercontent.com/AnnaZhudova/nft/metadata/2.jpg",
+  "image": "https://raw.githubusercontent.com/AnnaZhudova/nft/refs/heads/main/metadata/2.jpg",
   "attributes": [
     {
       "trait_type": "Index",
