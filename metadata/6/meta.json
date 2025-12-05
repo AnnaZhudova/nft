@@ -1,7 +1,7 @@
 {
   "name": "Шестой NFT",
   "description": "Это шестой NFT в коллекции",
-  "image": "https://raw.githubusercontent.com/AnnaZhudova/nft/metadata/6.jpg",
+  "image": "https://raw.githubusercontent.com/AnnaZhudova/nft/refs/heads/main/metadata/6.jpg",
   "attributes": [
     {
       "trait_type": "Index",
