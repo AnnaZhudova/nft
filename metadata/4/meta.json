@@ -1,1 +1,20 @@
 
+{
+  "name": "Четвертый NFT",
+  "description": "Это четвертый NFT в коллекции",
+  "image": "https://raw.githubusercontent.com/AnnaZhudova/nft/metadata/4.jpg",
+  "attributes": [
+    {
+      "trait_type": "Index",
+      "value": "4"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ]
+}
