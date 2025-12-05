@@ -1,1 +1,19 @@
-
+{
+  "name": "Шестой NFT",
+  "description": "Это шестой NFT в коллекции",
+  "image": "https://raw.githubusercontent.com/AnnaZhudova/nft/metadata/6.jpg",
+  "attributes": [
+    {
+      "trait_type": "Index",
+      "value": "6"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ]
+}
