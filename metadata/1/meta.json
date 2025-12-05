@@ -1,7 +1,7 @@
 {
   "name": "Первый NFT",
   "description": "Это первый NFT в коллекции",
-  "image": "https://raw.githubusercontent.com/AnnaZhudova/nft/metadata/1.jpg",
+  "image": "https://raw.githubusercontent.com/AnnaZhudova/nft/refs/heads/main/metadata/1.jpg",
   "attributes": [
     {
       "trait_type": "Index",
